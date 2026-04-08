@@ -1,0 +1,5 @@
+{
+  "name": "Magic Finger Paint",
+  "description": "Draw in the air using your fingers! Pinch your thumb and index finger to start painting.",
+  "requestFramePermissions": ["camera"]
+}
