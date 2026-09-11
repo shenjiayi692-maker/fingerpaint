@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="410" viewBox="0 0 1200 410" role="img" aria-labelledby="title desc">
+  <title id="title">Magic Finger Paint</title>
+  <desc id="desc">A bright camera canvas where a tracked hand pinch leaves a multicolor paint trail.</desc>
+  <rect width="1200" height="410" rx="34" fill="#eef8ff"/>
+  <path d="M-20 348 C145 211 232 438 388 294 S635 120 787 254 S1048 440 1234 256" fill="none" stroke="#ff5fbd" stroke-width="34" stroke-linecap="round"/>
+  <path d="M-20 350 C145 213 232 440 388 296 S635 122 787 256 S1048 442 1234 258" fill="none" stroke="#5fbdff" stroke-width="12" stroke-linecap="round" opacity=".9"/>
+  <g font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif">
+    <text x="62" y="69" fill="#6254b5" font-size="18" font-weight="800" letter-spacing="3">CAMERA-BASED CREATIVE PLAY</text>
+    <text x="62" y="146" fill="#20283a" font-size="65" font-weight="830">Magic Finger Paint</text>
+    <text x="62" y="195" fill="#4d5a72" font-size="25">Pinch your fingers. Paint in the air.</text>
+    <g transform="translate(62 233)" font-size="17" font-weight="700">
+      <rect width="136" height="40" rx="20" fill="#ff5f5f"/><text x="68" y="26" text-anchor="middle" fill="#fff">8 colors</text>
+      <rect x="148" width="145" height="40" rx="20" fill="#ffbd5f"/><text x="220" y="26" text-anchor="middle" fill="#402f18">2 hands</text>
+      <rect x="305" width="160" height="40" rx="20" fill="#5fff7d"/><text x="385" y="26" text-anchor="middle" fill="#173d22">6 guides</text>
+    </g>
+  </g>
+  <g transform="translate(780 35)">
+    <rect x="-25" y="0" width="360" height="300" rx="28" fill="#26344a"/>
+    <rect x="-5" y="20" width="320" height="260" rx="20" fill="#dcecf3"/>
+    <g stroke="#5fbdff" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" fill="none">
+      <path d="M70 224 L89 176 L116 126 L143 76"/>
+      <path d="M89 176 L57 125 L44 80"/>
+      <path d="M116 126 L103 67 L109 34"/>
+      <path d="M143 76 L150 38"/>
+      <path d="M89 176 L156 171 L213 145 L260 113"/>
+      <path d="M156 171 L205 195 L247 198"/>
+      <path d="M156 171 L187 225 L220 244"/>
+    </g>
+    <g fill="#ff5f5f" stroke="#fff" stroke-width="3"><circle cx="70" cy="224" r="9"/><circle cx="89" cy="176" r="9"/><circle cx="116" cy="126" r="9"/><circle cx="143" cy="76" r="9"/><circle cx="44" cy="80" r="9"/><circle cx="109" cy="34" r="9"/><circle cx="150" cy="38" r="9"/><circle cx="156" cy="171" r="9"/><circle cx="213" cy="145" r="9"/><circle cx="260" cy="113" r="9"/><circle cx="247" cy="198" r="9"/><circle cx="220" cy="244" r="9"/></g>
+    <circle cx="150" cy="38" r="19" fill="none" stroke="#ffeb5f" stroke-width="6"/>
+    <circle cx="109" cy="34" r="19" fill="none" stroke="#ffeb5f" stroke-width="6"/>
+    <path d="M150 38 C194 31 225 48 255 75 C281 99 291 86 315 76" fill="none" stroke="#a35fff" stroke-width="15" stroke-linecap="round"/>
+    <g transform="translate(54 315)" fill="#20283a"><circle r="12"/><circle cx="42" r="12"/><circle cx="84" r="12"/><circle cx="126" r="12"/><circle cx="168" r="12"/><circle cx="210" r="12"/></g>
+  </g>
+</svg>
