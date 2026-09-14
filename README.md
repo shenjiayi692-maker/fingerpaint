@@ -6,6 +6,8 @@
   <a href="https://ai.studio/apps/488c6e7e-e67f-49db-ba8e-d10f53e90cce"><strong>Open in Google AI Studio</strong></a>
 </p>
 
+<p align="center"><strong>English</strong> · <a href="./README.zh-CN.md">中文</a></p>
+
 Magic Finger Paint is a camera-based drawing playground for children. Hold up a hand, pinch thumb and index finger to paint, then open the gesture to stop. MediaPipe runs hand landmark tracking in the browser while a persistent canvas turns the pinch path into a colorful drawing.
 
 ## One gesture, a whole canvas
