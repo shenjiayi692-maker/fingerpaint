@@ -8,7 +8,15 @@
 
 <p align="center"><a href="./README.md">English</a> · <strong>中文</strong></p>
 
-Magic Finger Paint 是一个基于摄像头的儿童绘画玩具。举起一只手，拇指和食指捏合就开始画，张开就停。MediaPipe 在浏览器里做手部关键点追踪，一块持久画布把捏合的轨迹变成彩色的画。
+给小孩的画画应用都要一块能摸的屏幕和一支会弄丢的触控笔。这个只要一只手——在空中捏一下手指就能画，用的是你本来就有的摄像头。
+
+举起一只手，拇指和食指捏合就开始画，张开就停。MediaPipe 在浏览器里做手部关键点追踪，一块持久画布把捏合的轨迹变成彩色的画。
+
+```bash
+git clone https://github.com/shenjiayi692-maker/fingerpaint && cd fingerpaint && npm i && npm run dev
+```
+
+不需要 API key，也不需要后端——画画流程完全在浏览器里跑。
 
 ## 一个手势，一整块画布
 

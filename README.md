@@ -8,7 +8,15 @@
 
 <p align="center"><strong>English</strong> · <a href="./README.zh-CN.md">中文</a></p>
 
-Magic Finger Paint is a camera-based drawing playground for children. Hold up a hand, pinch thumb and index finger to paint, then open the gesture to stop. MediaPipe runs hand landmark tracking in the browser while a persistent canvas turns the pinch path into a colorful drawing.
+Drawing apps for kids need a screen to touch and a stylus to lose. This one needs a hand — pinch your fingers in the air and paint, through the camera you already have.
+
+Hold up a hand, pinch thumb and index finger to paint, then open the gesture to stop. MediaPipe runs hand landmark tracking in the browser while a persistent canvas turns the pinch path into a colorful drawing.
+
+```bash
+git clone https://github.com/shenjiayi692-maker/fingerpaint && cd fingerpaint && npm i && npm run dev
+```
+
+No API key and no backend — the drawing flow runs entirely in your browser.
 
 ## One gesture, a whole canvas
 
