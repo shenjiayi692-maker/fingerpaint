@@ -70,3 +70,7 @@ The app requests camera permission. It does not need to upload the video stream 
 ## Project status
 
 This is an experimental creative tool. Camera quality, lighting, browser support, and device performance affect tracking. It is not designed as an accessibility input method or a substitute for professional assistive technology.
+
+## License
+
+MIT—see [LICENSE](./LICENSE).
